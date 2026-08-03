@@ -7,36 +7,189 @@ https://github.com/user-attachments/assets/75589543-17c1-4272-a751-89ce792fe7ca
 <div style="background:#050505; padding:25px; border-radius:12px; border:1px solid #ff0000; text-align:center; font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color:#e6e6e6; line-height:1.6; direction:rtl;">
 
   <!-- العنوان الرئيسي -->
-  <h1 style="color:#ff0000; font-size:32px; margin-bottom:10px; direction:ltr;">
-    🕷️ Red Team X 🕷️
-  </h1>
+  تمام يط
+<h1 align="center">
+  🟥 jدRed-Team-X 🟥<br>
+  <sub><i>By MrPYTHON • Red Team X ☣️</i></sub>
+</h1>
 
-  <!-- المسمى والمناصب -->
-  <p style="font-size:18px; margin-bottom:15px; color:#ffffff;">
-    ☣️ قائد فريق <span style="color:#ff0000; font-weight:bold;">𝐑𝐞𝐝 𝐓𝐞𝐚𝐦 𝐗</span>
-  </p>
-
-  <!-- التخصصات والشعار -->
-  <p style="font-size:15px; color:#cccccc; margin-bottom:15px; direction:ltr;">
-    Cyber Security Research • Web Developer 💻<br>
-    Research • Defense • Innovation<br>
-    <span style="color:#ff4d4d; font-weight:600;">Linux | HTML | CSS | JavaScript | PHP</span>
-  </p>
-
-  <!-- التوقيع -->
-  <div style="margin-top:20px; font-size:16px; color:#888;">
-    <sub><i style="color:#ff0000; font-size:16px; direction:ltr; display:inline-block;">By 𝐌𝐫𝐏𝐘𝐓𝐇𝐎𝐍 ☣️༒🇾🇪 ☠️</i></sub>
-  </div>
-
-</div>
-
-
-
-
-
-
-> ⚠️ **تحذير:** هذه الأداة قوية وخطيرة! استخدمها بحذر ومسؤولية، فقط على الأنظمة التي تملك تصريحًا قانونيًا للاختبار عليها. أي استخدام غير قانوني يقع على عاتق المستخدم فقط!
+> ⚠️ WARNING: This tool is forged in the dark.  
+> 👁️ Built for real cyber operations — not beginners.  
+> 🧠 If you fear the shadows… do not proceed.
 
 ---
 
+## 💀 What is `js.Red-Team-X`?
+
+`js.Red-Team-X` is a **stealth login analyzer & session hunter**, engineered for deep cyber reconnaissance.  
+
+It slips through authentication layers like smoke, observing behavior, analyzing responses, and mapping hidden logic inside restricted systems.
+
+This is not a simple script —  
+**it’s a silent operative**, crafted for Red Team missions where precision matters more than brute force.
+
+---
+
+## ⚙️ Arsenal & Capabilities
+
+🧠 **Ghost Session Engine**  
+
+- Generates a new fingerprint every attempt  
+
+- Unique UA, cookies, noise, and headers  
+
+- Zero trace — zero repetition — zero detection
+
+🧠 **Login Behavior Analyzer**  
+
+- Detects hidden redirects  
+
+- Reads server-side logic  
+
+- Identifies weak validation flows  
+
+- Maps response patterns in real time
+
+🧠 **Session Verification Module**  
+
+- Confirms login state via secondary endpoints
+
+- Tracks cookie mutations  
+
+- Detects silent auth bypasses
+
+🧠 **Card Input Engine**  
+
+- Reads massive lists from `cards.txt`  
+
+- Auto-stops on first valid credential  
+
+- Saves full logs + successful hits
+
+🧠 **Cross‑Platform Execution**  
+
+- Termux  
+
+- Linux  
+
+- Windows CMD  
+
+- Same power everywhere
+
+---
+
+## 🧪 Installation
+
+### 🔥 Termux
+
+```bash
+pkg update && pkg upgrade -y
+pkg install git nodejs -y
+git clone https://github.com/mrpythonfpi/Red-Team-X
+cd Red-Team-X
+node Red-Team-X.js
+```
+
+### 🐧 Linux (Ubuntu / Kali / Debian)
+
+```bash
+sudo apt update && sudo apt upgrade -y
+sudo apt install git nodejs npm -y
+git clone https://github.com/mrpythonfpi/Red-Team-X
+cd Red-Team-X
+node Red-Team-X.js
+```
+
+### 🪟 Windows CMD / PowerShell
+
+```cmd
+git clone https://github.com/mrpythonfpi/Red-Team-X
+cd Red-Team-X
+node Red-Team-X.js
+```
+
+---
+
+## 📄 Preparing 
+
+`cards.txt`
+
+Create a file named:
+
+```
+cards.txt
+```
+
+Add your entries, one per line:
+
+```
+123456
+987654
+112233
+...
+```
+
+---
+
+## 🕹️ Usage
+
+```bash
+node Red-Team-X.js
+```
+
+An interactive terminal flow guides you through:
+
+- Ghost session attempts  
+
+- Behavioral login analysis  
+
+- Response fingerprinting  
+
+- Silent verification  
+
+- Full logging  
+
+---
+
+## 📁 Output Files
+
+- `results.json` → Full logs  
+
+- `success.txt` → Valid hits only  
+
+- `cards.txt` → Input list  
+
+---
+
+## 👁️ Credits
+
+🧠 **Coded by:** MrPYTHON  
+
+☣️ **Crew:** Red Team X  
+
+📡 Telegram: [https://t.me/SECRET1NET](https://t.me/SECRET1NET)  
+
+🎥 YouTube: 
+
+[https://youtube.com/@mr_python3](https://youtube.com/@mr_python3)  
+
+🌐 More Tools:
+ [https://mrpython3.carrd.co/](https://mrpython3.carrd.co/)
+
+---
+
+## ⚠️ Legal Disclaimer
+
+This tool is intended for educational and authorized security research only.  
+
+The developer is not responsible for misuse.  
+
+Use ethically. Respect the law. Stay sharp.
+
+---
+
+🟥 **js.Red-Team-X — When silence becomes a weapon…**  
+
+Unleash the ghost. Study the system. Control the shadows.
+```
 
