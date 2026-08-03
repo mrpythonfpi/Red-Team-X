@@ -7,9 +7,9 @@ https://github.com/user-attachments/assets/75589543-17c1-4272-a751-89ce792fe7ca
 <div style="background:#050505; padding:25px; border-radius:12px; border:1px solid #ff0000; text-align:center; font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color:#e6e6e6; line-height:1.6; direction:rtl;">
 
   <!-- العنوان الرئيسي -->
-  تمام يط
+  
 <h1 align="center">
-  🟥 jدRed-Team-X 🟥<br>
+  🟥 Red-Team-X 🟥<br>
   <sub><i>By MrPYTHON • Red Team X ☣️</i></sub>
 </h1>
 
@@ -19,7 +19,7 @@ https://github.com/user-attachments/assets/75589543-17c1-4272-a751-89ce792fe7ca
 
 ---
 
-## 💀 What is `js.Red-Team-X`?
+## 💀 What is `Red-Team-X`?
 
 `js.Red-Team-X` is a **stealth login analyzer & session hunter**, engineered for deep cyber reconnaissance.  
 
@@ -167,10 +167,10 @@ An interactive terminal flow guides you through:
 
 ☣️ **Crew:** Red Team X  
 
-📡 Telegram: [https://t.me/SECRET1NET](https://t.me/SECRET1NET)  
+📡 Telegram: 
+[https://t.me/SECRET1NET](https://t.me/SECRET1NET)  
 
 🎥 YouTube: 
-
 [https://youtube.com/@mr_python3](https://youtube.com/@mr_python3)  
 
 🌐 More Tools:
@@ -188,7 +188,7 @@ Use ethically. Respect the law. Stay sharp.
 
 ---
 
-🟥 **js.Red-Team-X — When silence becomes a weapon…**  
+🟥 **Red-Team-X — When silence becomes a weapon…**  
 
 Unleash the ghost. Study the system. Control the shadows.
 ```
