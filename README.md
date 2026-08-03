@@ -1,50 +1,56 @@
 # Red-Team-X
 
 
-https://github.com/user-attachments/assets/5d70f629-b02e-4547-a6c4-88a2f9cafc0e
+<img width="1983" height="793" alt="1000215588" src="https://github.com/user-attachments/assets/6bdf82b5-dfab-4980-9bd1-0c2a7a4adb19" />
 
 
-<div style="background:#0a0a0a;padding:25px;border-radius:12px;border:1px solid #ff0000;font-family:Consolas,monospace;color:#e6e6e6;">
 
-<h2 style="color:#ff0000;text-align:center;font-size:32px;">
-⛧ 𝐌𝐫𝐏𝐘𝐓𝐇𝐎𝐍 ☣️༒🇾🇪 ⛧
-</h2>
+> ⚠️ **تحذير:** هذه الأداة قوية وخطيرة! استخدمها بحذر ومسؤولية، فقط على الأنظمة التي تملك تصريحًا قانونيًا للاختبار عليها. أي استخدام غير قانوني يقع على عاتق المستخدم فقط!
 
-<p style="text-align:center;font-size:18px;line-height:1.6;">
-قائد فريق <span style="color:#ff0000;">Red Team X</span><br>
-باحث أمن سيبراني • صانع أدوات هجومية ودفاعية • مبرمج نظم<br>
-Linux • HTML • CSS • JavaScript • PHP • OSINT • Threat Analysis
-</p>
+---
 
-<hr style="border:0;border-top:1px solid #ff0000;margin:20px 0;">
 
-<h3 style="color:#ff0000;text-align:center;font-size:24px;">
-⚡ Red Team X — Cyber Operations Division ⚡
-</h3>
+<div style="background:#050505;padding:30px;border-radius:14px;border:1px solid #ff0000;font-family:Consolas,monospace;color:#e6e6e6;line-height:1.9;">
 
-<p style="font-size:17px;line-height:1.7;text-align:center;">
-نحن فريق يعمل في الظل…  
-نبحث، نحلل، نبتكر، ونبني أدوات لا تُرى إلا آثارها.  
-لسنا مجرد مطورين… نحن صُنّاع بيئات رقمية كاملة.  
-نحن من يجعل المستحيل قابلًا للتنفيذ، ويحوّل الفكرة إلى نظام.
-</p>
+  <h2 style="color:#ff0000;text-align:center;font-size:32px;margin-bottom:10px;">
+    𝐌𝐫𝐏𝐘𝐓𝐇𝐎𝐍 ☣️༒🇾🇪
+  </h2>
 
-<hr style="border:0;border-top:1px solid #ff0000;margin:20px 0;">
+  <p style="text-align:center;font-size:18px;margin-bottom:20px;">
+    ☣️ قائد فريق <span style="color:#ff0000;">Red Team X</span><br>
+    Cyber Security Research • Web Developer 💻<br>
+    Linux | HTML | CSS | JavaScript | PHP<br>
+    Research • Defense • Innovation
+  </p>
 
-<h3 style="color:#ff0000;text-align:center;font-size:24px;">
-☣️ فلسفتنا ☣️
-</h3>
+  <hr style="border:0;border-top:1px solid #ff0000;margin:20px 0;">
 
-<p style="font-size:17px;line-height:1.7;text-align:center;">
-السرية ليست خيارًا… بل أسلوب حياة.  
-الابتكار ليس رفاهية… بل واجب.  
-والقوة ليست مظهرًا… بل نتيجة عمل عميق لا يراه أحد.
-</p>
+  <p style="font-size:17px;text-align:justify;">
+    في عتمة الشاشات السوداء، وبين نبضات الحروف التي تُكتب بصمت، يظهر اسم
+    <span style="color:#ff0000;font-weight:bold;">𝐌𝐫𝐏𝐘𝐓𝐇𝐎𝐍</span>
+    كأنه توقيع محفور على جدار العالم الرقمي. ليس مجرد مبرمج، بل قائد لفريق يتحرك في الظل…
+    <span style="color:#ff0000;font-weight:bold;">Red Team X</span>، حيث تُصنع الأدوات، وتُختبر الأنظمة، وتُكتب القصص التي لا تُروى للعامة.
+  </p>
 
-<hr style="border:0;border-top:1px solid #ff0000;margin:20px 0;">
+  <p style="font-size:17px;text-align:justify;">
+    بين سطور الأكواد، تُولد أفكار هجومية ودفاعية، تتحول من مجرد نصوص إلى كيانات رقمية لها أثر،
+    تراقب، تحلل، وتعيد تشكيل الواقع السيبراني. هنا لا يكون الأمن مجرد جدار حماية،
+    بل يكون فنًا من فنون الحرب الهادئة، حيث تُستخدم المعرفة كسلاح، والبحث كدرع، والابتكار كهوية.
+  </p>
 
-<p style="text-align:center;font-size:18px;color:#ff0000;">
-✦ Research • Defense • Innovation ✦
-</p>
+  <p style="font-size:17px;text-align:justify;">
+    في هذا العالم، لا يكون <span style="color:#ff0000;">Linux</span> مجرد نظام تشغيل،
+    ولا تكون <span style="color:#ff0000;">HTML و CSS و JavaScript و PHP</span> مجرد لغات برمجة،
+    بل أدوات نحت تُشكّل بها بيئات كاملة، منصات، واجهات، أنظمة، وأدوات تحمل توقيع
+    <span style="color:#ff0000;">Red Team X</span>.
+  </p>
+
+  <p style="font-size:17px;text-align:justify;">
+    إن كنت تقرأ هذه الكلمات الآن، فاعلم أنك لا تنظر إلى مجرد سطر تعريف،
+    بل إلى بوابة صغيرة على عالم من
+    <span style="color:#ff0000;">Research • Defense • Innovation</span>،
+    عالم يُكتب فيه المستقبل من خلف شاشة… بيد شخص واحد:
+    <span style="color:#ff0000;font-weight:bold;">𝐌𝐫𝐏𝐘𝐓𝐇𝐎𝐍 ☣️ قائد فريق Red Team X.</span>
+  </p>
 
 </div>
