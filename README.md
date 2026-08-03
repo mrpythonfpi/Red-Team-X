@@ -14,49 +14,119 @@ https://github.com/user-attachments/assets/75589543-17c1-4272-a751-89ce792fe7ca
 ---
 
 
-<div style="background: #050505; padding: 30px; border-radius: 14px; border: 1px solid #ff0000; font-family: 'Consolas', 'Courier New', monospace; color: #e6e6e6; line-height: 1.9; max-width: 800px; margin: 0 auto; box-sizing: border-border-box;">
+<div style="background:#050505;padding:30px;border-radius:14px;border:1px solid #ff0000;font-family:Consolas,monospace;color:#e6e6e6;line-height:1.9;">
 
-  <!-- Header Section -->
-  <h2 style="color: #ff0000; text-align: center; font-size: 32px; margin-top: 0; margin-bottom: 10px; letter-spacing: 2px;">
-    MrPYTHON ☣️༒🇾🇪
+  <h2 style="color:#ff0000;text-align:center;font-size:30px;margin-bottom:15px;">
+    ⛧ js.Red-Team-X — Official Tool by Red Team X ⛧
   </h2>
+  
 
-  <p style="text-align: center; font-size: 18px; margin-bottom: 20px;">
-    ☣️ قائد فريق <span style="color: #ff0000; font-weight: bold;">Red Team X</span><br>
-    Cyber Security Research • Web Developer 💻<br>
-    Linux | HTML | CSS | JavaScript | PHP<br>
-    Research • Defense • Innovation
+  <p style="text-align:center;font-size:17px;margin-bottom:10px;">
+    تم تطوير الأداة بواسطة
+    
+    <span style="color:#ff0000;font-weight:bold;">𝐌𝐫𝐏𝐘𝐓𝐇𝐎𝐍 ☣️༒🇾🇪</span><br>
+    
+    ☣️ قائد فريق <span style="color:#ff0000;">Red Team X</span><br>
+    
+    Cyber Security Research • Web Developer • Linux | HTML | CSS | JavaScript | PHP
+  </p>
+  
+
+  <hr style="border:0;border-top:1px solid #ff0000;margin:20px 0;">
+  
+
+  <h3 style="color:#ff0000;font-size:22px;">🔗 رابط المستودع الرسمي</h3>
+  
+  <p style="font-size:16px;">
+  
+    <code>https://github.com/mrpythonfpi/Red-Team-X</code>
   </p>
 
-  <hr style="border: 0; border-top: 1px solid #ff0000; margin: 25px 0;">
+  <h3 style="color:#ff0000;font-size:22px;margin-top:20px;">📥 1 — التثبيت على Termux</h3>
+  
+  <pre style="background:#0b0b0b;padding:12px;border-radius:8px;border:1px solid #ff0000;font-size:14px;overflow:auto;">
+  
+pkg update && pkg upgrade -y
+pkg install git nodejs -y
+git clone https://github.com/mrpythonfpi/Red-Team-X
+cd Red-Team-X
+node js.Red-Team-X
 
-  <!-- Content Section -->
-  <p style="font-size: 17px; text-align: justify; text-justify: inter-word;">
-    في عتمة الشاشات السوداء، وبين نبضات الحروف التي تُكتب بصمت، يظهر اسم 
-    <span style="color: #ff0000; font-weight: bold;">MrPYTHON</span> 
-    كأنه توقيع محفور على جدار العالم الرقمي. ليس مجرد مبرمج، بل قائد لفريق يتحرك في الظل… 
-    <span style="color: #ff0000; font-weight: bold;">Red Team X</span>، حيث تُصنع الأدوات، وتُختبر الأنظمة، وتُكتب القصص التي لا تُروى للعامة.
+  </pre>
+
+  <h3 style="color:#ff0000;font-size:22px;margin-top:20px;">🐧 2 — التثبيت على Linux (Ubuntu / Kali / Debian)</h3>
+  
+  <pre style="background:#0b0b0b;padding:12px;border-radius:8px;border:1px solid #ff0000;font-size:14px;overflow:auto;">
+  
+sudo apt update && sudo apt upgrade -y
+sudo apt install git nodejs npm -y
+git clone https://github.com/mrpythonfpi/Red-Team-X
+cd Red-Team-X
+node js.Red-Team-X
+  </pre>
+
+  <h3 style="color:#ff0000;font-size:22px;margin-top:20px;">🪟 3 — التثبيت على Windows (CMD / PowerShell)</h3>
+  
+  <p style="font-size:16px;">
+  
+    ثبّت أولًا <span style="color:#ff0000;">Git</span> و <span style="color:#ff0000;">Node.js</span>، ثم نفّذ:
+  </p>
+  <pre style="background:#0b0b0b;padding:12px;border-radius:8px;border:1px solid #ff0000;font-size:14px;overflow:auto;">
+  
+git clone https://github.com/mrpythonfpi/Red-Team-X
+cd Red-Team-X
+node js.Red-Team-X
+
+  </pre>
+
+  <h3 style="color:#ff0000;font-size:22px;margin-top:20px;">📄 4 — ملف البطاقات (cards.txt)</h3>
+  
+  <p style="font-size:16px;">
+  
+    أنشئ ملف باسم <code>cards.txt</code> داخل مجلد الأداة، وضع كل بطاقة في سطر:
+  </p>
+  
+  <pre style="background:#0b0b0b;padding:12px;border-radius:8px;border:1px solid #ff0000;font-size:14px;overflow:auto;">
+  
+123456
+987654
+112233
+...
+
+  </pre>
+
+  <h3 style="color:#ff0000;font-size:22px;margin-top:20px;">⚙️ 5 — تشغيل الأداة</h3>
+  
+  <p style="font-size:16px;">
+    بعد تجهيز <code>cards.txt</code>، شغّل الأداة بالأمر:
+  </p>
+  
+  <pre style="background:#0b0b0b;padding:12px;border-radius:8px;border:1px solid #ff0000;font-size:14px;overflow:auto;">
+  
+node js.Red-Team-X
+
+  </pre>
+
+  <h3 style="color:#ff0000;font-size:22px;margin-top:20px;">📁 6 — الملفات الناتجة</h3>
+  
+  <ul style="font-size:16px;">
+  
+    <li><code>results.json</code> — يحتوي جميع النتائج بالتفصيل.</li>
+    
+    <li><code>success.txt</code> — يحتوي البطاقات الناجحة فقط.</li>
+    
+  </ul>
+ 
+
+  <hr style="border:0;border-top:1px solid #ff0000;margin:25px 0;">
+
+  <p style="text-align:center;font-size:18px;color:#ff0000;">
+  
+    ✦ Research • Defense • Innovation ✦<br>
+    
+    توقيع: 𝐌𝐫𝐏𝐘𝐓𝐇𝐎𝐍 — Red Team X
   </p>
 
-  <p style="font-size: 17px; text-align: justify; text-justify: inter-word;">
-    بين سطور الأكواد، تُولد أفكار هجومية ودفاعية، تتحول من مجرد نصوص إلى كيانات رقمية لها أثر، 
-    تراقب، تحلل، وتعيد تشكيل الواقع السيبراني. هنا لا يكون الأمن مجرد جدار حماية، 
-    بل يكون فنًا من فنون الحرب الهادئة، حيث تُستخدم المعرفة كسلاح، والبحث كدرع، والابتكار كهوية.
-  </p>
-
-  <p style="font-size: 17px; text-align: justify; text-justify: inter-word;">
-    في هذا العالم، لا يكون <span style="color: #ff0000; font-weight: bold;">Linux</span> مجرد نظام تشغيل، 
-    ولا تكون <span style="color: #ff0000; font-weight: bold;">HTML و CSS و JavaScript و PHP</span> مجرد لغات برمجة، 
-    بل أدوات نحت تُشكّل بها بيئات كاملة، منصات، واجهات، أنظمة، وأدوات تحمل توقيع 
-    <span style="color: #ff0000; font-weight: bold;">Red Team X</span>.
-  </p>
-
-  <p style="font-size: 17px; text-align: justify; text-justify: inter-word; margin-bottom: 0;">
-    إن كنت تقرأ هذه الكلمات الآن، فاعلم أنك لا تنظر إلى مجرد سطر تعريف، 
-    بل إلى بوابة صغيرة على عالم من 
-    <span style="color: #ff0000; font-weight: bold;">Research • Defense • Innovation</span>، 
-    عالم يُكتب فيه المستقبل من خلف شاشة… بيد شخص واحد: 
-    <span style="color: #ff0000; font-weight: bold;">MrPYTHON ☣️ قائد فريق Red Team X.</span>
-  </p>
+</div>
 
 </div>
