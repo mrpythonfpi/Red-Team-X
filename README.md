@@ -3,8 +3,8 @@
 
 
 
-https://github.com/user-attachments/assets/75589543-17c1-4272-a751-89ce792fe7ca
-<div style="background:#050505; padding:25px; border-radius:12px; border:1px solid #ff0000; text-align:center; font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color:#e6e6e6; line-height:1.6; direction:rtl;">
+<img width="1254" height="1254" alt="1000215590" src="https://github.com/user-attachments/assets/6c7466bc-d757-4a3a-9311-c63f739881f6" />
+
 
   <!-- العنوان الرئيسي -->
   
