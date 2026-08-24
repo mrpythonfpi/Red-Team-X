@@ -142,6 +142,102 @@ When running the script, you will be prompted to provide the following network p
 
 # 🕷️ MikroTik Card Generator
 
+<img width="1080" height="2131" alt="451445023-8f2dfcd2-8944-40dc-9c66-5baa83b3b32c" src="https://github.com/user-attachments/assets/737bdb36-2d3f-4f4d-8ef0-1c2b764013aa" />
+
+
+
+
+
+ ⚙️ 1. Overview
+A Python utility designed to analyze and generate hotspot vouchers based on existing patterns:
+
+* **Pattern Analysis:** Analyzes the numerical structure of 3 valid sample cards.
+* 
+* **Smart Generation:** Generates large batches of matching vouchers following the detected pattern
+* 
+* **File Export:** Saves all generated cards into a file for auditing or brute-force testing.
+
+---
+
+🚀 2. Prerequisites & Installation
+
+* **Python:** Version 3.6 or higher
+* 
+* **Dependencies:** `colorama` (automatically installed on the first run).
+
+**Run Command:**
+
+python WiFi.py
+
+🎬 3. Step-by-Step Usage
+
+ * Enter 3 Sample Cards (Must be the same length):
+
+   [*] Enter 3 sample cards (same length):
+
+Card 1 ➤ 123456
+
+Card 2 ➤ 128999
+
+Card 3 ➤ 120321
+
+   > Note: If the cards do not match in character length, the script returns:
+
+   > ❌ Cards must be of the same length!
+
+   > 
+ * Set the Generation Count:
+
+   How many cards to generate? ➤ 1000
+
+   Enter the desired number of vouchers to generate and save.
+
+
+<img width="1080" height="2131" alt="451445264-c13c1461-6328-4978-9f09-eeab49691e70" src="https://github.com/user-attachments/assets/fb25e079-0bd4-4cf3-b034-d93282a09693" />
+
+
+
+
+
+
+الثاني
+### 🧠 4. Pattern Analysis Mechanism
+
+The script inspects each character position across the sample cards to determine its rule:
+
+| Pattern Type | Description |
+
+| :--- | :--- |
+
+| **`fixed`** | A static character present in the exact same position across all sample cards |
+
+| **`rand_digit`** | A variable numeric digit (`0-9`) changing between cards |
+
+| **`rand_lower`** | A variable lowercase letter (`a-z`) |
+
+| **`rand_upper`** | A variable uppercase letter (`A-Z`) |
+
+| **`rand_mix`** | A variable alphanumeric character (letters or numbers) 
+
+
+After mapping the layout, the generator constructs new vouchers that strictly follow the same structural rules.
+
+---
+
+### 📥 5. Saving the Output
+
+Once generation finishes, the script prompts to save the wordlist:
+
+
+💾 Do you want to save these cards? (yes/no): yes
+
+Enter filename (e.g., cards.txt): cards.txt
+
+ * Selecting yes lets you specify a custom output filename (e.g., cards.txt).
+ * The generated vouchers are written directly to that file for downstream testing.
+✅ 6. Script Output
+
+
 
 
 ## 📄 Preparing 
