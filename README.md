@@ -168,13 +168,13 @@ An interactive terminal flow guides you through:
 ☣️ **Crew:** Red Team X  
 
 📡 Telegram: 
-[https://t.me/SECRET1NET](https://t.me/SECRET1NET)  
+[mrpython](https://t.me/MrYE_4)  
 
 🎥 YouTube: 
-[https://youtube.com/@mr_python3](https://youtube.com/@mr_python3)  
+[mrpython](https://youtube.com/@mrpythonfpi?si=42MhrN6E7DwE5GyH)  
 
 🌐 More Tools:
- [https://mrpython3.carrd.co/](https://mrpython3.carrd.co/)
+ [mrpython](https://mrpython3.carrd.co/)
 
 ---
 
