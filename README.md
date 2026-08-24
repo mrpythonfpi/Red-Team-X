@@ -114,6 +114,31 @@ node Red-Team-X.js
 
 ---
 
+## 🚧 Start operating the device
+
+<img width="1080" height="2400" alt="1000234980" src="https://github.com/user-attachments/assets/c776cc77-5b5b-49cd-9d1d-8227035d49bf" />
+
+
+### ⚙️ Interactive Configuration Setup
+
+When running the script, you will be prompted to provide the following network parameters:
+
+| Parameter | Prompt Description | Example |
+
+| :--- | :--- | :--- |
+
+| **Base URL** | The root domain or IP of the login portal | `http://fh.net` |
+
+| **Login Path** | The specific endpoint for authentication | `/login` |
+
+| **Status Path** | The endpoint used for session/status checks | `/status.html` |
+
+| **Request Method**| The HTTP method used for sending credentials | `POST` or `GET` |
+
+| **Extra Fields** | Optional key-value parameters separated by `\|` | `domain=512k\|var=callBack` |
+
+
+
 ## 📄 Preparing 
 
 `cards.txt`
