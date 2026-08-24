@@ -85,6 +85,8 @@ This is not a simple script —
 ```bash
 pkg update && pkg upgrade -y
 pkg install git nodejs -y
+npm install axios-cookiejar-support
+npm install
 git clone https://github.com/mrpythonfpi/Red-Team-X
 cd Red-Team-X
 node Red-Team-X.js
@@ -95,6 +97,8 @@ node Red-Team-X.js
 ```bash
 sudo apt update && sudo apt upgrade -y
 sudo apt install git nodejs npm -y
+sudo npm install axios-cookiejar-support
+sudo npm install
 git clone https://github.com/mrpythonfpi/Red-Team-X
 cd Red-Team-X
 node Red-Team-X.js
