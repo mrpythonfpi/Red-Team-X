@@ -303,6 +303,10 @@ An interactive terminal flow guides you through:
 🎥 YouTube: 
 [mrpython](https://youtube.com/@mrpythonfpi?si=42MhrN6E7DwE5GyH)  
 
+🚧 Instagram:
+
+[mrpython]([https://youtube.com/@mrpythonfpi?si=42MhrN6E7DwE5GyH](https://www.instagram.com/mrpythonfpi?igsi=ZnlyZGd6emJsMG03)) 
+
 🌐 More Tools:
  [mrpython](https://mrpython3.carrd.co/)
 
