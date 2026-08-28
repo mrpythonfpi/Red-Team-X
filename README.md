@@ -304,7 +304,6 @@ An interactive terminal flow guides you through:
 [mrpython](https://youtube.com/@mrpythonfpi?si=42MhrN6E7DwE5GyH)  
 
 🚧 Instagram:
-
 [mrpython]([https://youtube.com/@mrpythonfpi?si=42MhrN6E7DwE5GyH](https://www.instagram.com/mrpythonfpi?igsi=ZnlyZGd6emJsMG03)) 
 
 🌐 More Tools:
